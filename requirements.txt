@@ -1,6 +1,0 @@
-requests
-aiohttp
-ddddocr
-opencv-python
-numpy
-urllib3
