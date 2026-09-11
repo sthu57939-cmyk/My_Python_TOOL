@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+aiohttp
+opencv-python
+ddddocr
+numpy
+requests
+urllib3
